@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.buraksakalli.org"><img src="https://user-images.githubusercontent.com/10114716/87132525-a9f13500-c29e-11ea-9082-356fa979b6cc.jpg" alt="blog" /></a>
+  <a href="https://www.buraksakalli.org" target="_blank"><img src="https://user-images.githubusercontent.com/10114716/87132525-a9f13500-c29e-11ea-9082-356fa979b6cc.jpg" alt="blog" /></a>
   <a href="mailto:burak@buraksakalli.org"><img src="https://user-images.githubusercontent.com/10114716/87132512-a8c00800-c29e-11ea-8852-f942e1dde770.jpg" alt="contact" /></a>
 </p>
 
