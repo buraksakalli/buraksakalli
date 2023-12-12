@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-<img src="https://user-badge.committers.top/uae_private/buraksakalli.svg" alt="top contributors"/>
+  <a href="https://user-badge.committers.top/uae_private/buraksakalli">
+    <img src="https://user-badge.committers.top/uae_private/buraksakalli.svg" alt="top contributors"/>
+  </a>
 </p>
 
 
