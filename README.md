@@ -6,6 +6,9 @@
   <a href="https://user-badge.committers.top/uae_private/buraksakalli">
     <img src="https://user-badge.committers.top/uae_private/buraksakalli.svg" alt="top contributors"/>
   </a>
+  <a href="https://wakatime.com/@9b00185b-24d1-4b40-b66a-6fe09eec8a1b">
+    <img src="https://wakatime.com/badge/user/9b00185b-24d1-4b40-b66a-6fe09eec8a1b.svg" alt="Total time coded since Jun 17 2020" />
+  </a>
 </p>
 
 
