@@ -11,7 +11,6 @@
   </a>
 </p>
 
-
 <p align="center">
   <a href="https://github.com/buraksakalli?tab=repositories"><img src="https://user-images.githubusercontent.com/10114716/87132515-a9589e80-c29e-11ea-8d13-7e4cbbba98c3.jpg" alt="repositories" /></a>
   <a href="https://github.com/buraksakalli?tab=stars"><img src="https://user-images.githubusercontent.com/10114716/87132518-a9589e80-c29e-11ea-9081-68332974163c.jpg" alt="stars" /></a>
@@ -26,3 +25,5 @@
   <br />
   <img src="https://user-images.githubusercontent.com/10114716/87132963-503d3a80-c29f-11ea-9fe4-db065a2f7b42.JPG" alt="counter" />
 </p>
+
+[![An image of @buraksakalli's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/buraksakalli)](https://holopin.io/@buraksakalli)
