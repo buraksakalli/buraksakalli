@@ -25,7 +25,7 @@
   <br />
   <img src="https://user-images.githubusercontent.com/10114716/87132963-503d3a80-c29f-11ea-9fe4-db065a2f7b42.JPG" alt="counter" />
   <br/><br/>
-  <img src="https://digital-hit-counter-prototype-eight.vercel.app/api/counter/buraksakalli" alt="counter" />
+  <img src="https://digital-hit-counter-prototype-eight.vercel.app/api/counter/buraksakalli?cache=bust" alt="counter" />
 </p>
 
 [![An image of @buraksakalli's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/buraksakalli)](https://holopin.io/@buraksakalli)
